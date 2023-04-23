@@ -12,4 +12,4 @@
 - What problems / warnings are there with code? <a href="https://github.com/sidharth9661/Sidharth-Pansari_Frontend-Developers_React.js/blob/master/CodeWarning.md">Task 2 README.md</a> 
 
 ## Task 3:
-- Link of the Optimized version of the code <a href="https://github.com/sidharth9661/Sidharth-Pansari_Frontend-Developers_React.js/blob/master/Codes/improvedversion.js">Optimized.js - Click Here</a>
+- Link of the Improved version of the code <a href="https://github.com/sidharth9661/Sidharth-Pansari_Frontend-Developers_React.js/blob/master/Codes/improvedversion.js">Improved.js - Click Here</a>
