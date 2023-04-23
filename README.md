@@ -1,7 +1,7 @@
 # Frontend Engineer Assignment - STEELEYE LIMITED
 
 ## ASSIGNED TASK
-
+<img src="https://github.com/sidharth9661/Sidharth-Pansari_Frontend-Developers_React.js/blob/master/images/giventask.jpeg" />
 
 ## This Readme File Contain All the explanation about the given 3 Matrics 
 
